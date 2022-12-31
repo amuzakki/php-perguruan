@@ -1,5 +1,7 @@
 # php-perguruan
 
--[ ] menu atas tetap tampil
--[ ] buat user id login sementara
--[ ] menggunakan datatables
+Catatan :
+
+- [ ] menu atas tetap tampil
+- [ ] buat user id login sementara
+- [ ] menggunakan datatables
